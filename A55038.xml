@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additional sheet to the book entituled, The musical companion</title>
+            <author>Playford, John, 1623-1686?</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55038</idno><idno type="EEBO-CITATION">99829549</idno>
+  <idno type="VID">33989</idno>
+  <idno type="EEBO-PROQUEST">2248494433</idno>
+  
+            <idno type="STC">Wing P2443A</idno>
+            <idno type="STC">ESTC R217906</idno>
+            <idno type="PROQUEST">99829549</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829549e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33989)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1997:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additional sheet to the book entituled, The musical companion</title>
+                  <author>Playford, John, 1623-1686?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1673?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Playford.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication conjectured by cataloger; publication date conjectured by Wing.</note>
+                  <note>Intended to be issued with: Playford, John.  The musical companion.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Music --  England --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song_book">
+            <pb n="1" facs="tcp:33989:1"/>
+            <head>An Additional Sheet to the Book entituled, <hi>The Musical Companion.</hi>
+            </head>
+            <div type="song">
+               <head>A. <hi>3</hi> Voc.</head>
+               <byline>
+                  <hi>Mr.</hi> Henry Alridge.</byline>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg>H the bonny <hi>Christchurch</hi> Bells, 1 2 3 4 5 6;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> they found so wond'rous great</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> so woundy sweet,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and they trowl so mer╌ri╌ly, mer╌ri╌ly.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Oh! the first and second Bell,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that e╌ve╌ry day at Four and Ten, cry,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Come, come, come, come, come to Pray'rs;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and the <hi>Vir╌ger</hi> troops before the <hi>Dean.</hi>
+                  </l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Tinkle, tinkle, ting, goes the small Bell at Nine, to call the Beerers home;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> but the Dev'l a Man</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> will leave his Can,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> 'till he hears the mighty <hi>Tom.</hi>
+                  </l>
+               </lg>
+               <div type="song">
+                  <head>Another to the same TUNE.</head>
+                  <lg>
+                     <l>HArk, the merry <hi>Tinker</hi>'s crew, <hi>Nell, Doll, Moll, Kate,</hi> &amp; <hi>Sue;</hi>
+                     </l>
+                     <l>They swig such wond'rous Ale,</l>
+                     <l>So woundy stale;</l>
+                     <l>And they Chat so merrily, merrily.</l>
+                     <l>Hark, the bawling Brats do cry</l>
+                     <l>Along the Streets, as you pass by,</l>
+                     <l>Oh, good Sir, pray Sir, one Farthing;</l>
+                     <l>And thus the Bantlins never lin.</l>
+                     <l>Tink, tink, tink, tink, tink, goes the Frying-pan, to call the <hi>Doxies</hi> home;</l>
+                     <l>But the Dev'l a Jade</l>
+                     <l>Will leave her Trade,</l>
+                     <l>'Till the mighty <hi>Tinker</hi> comes.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="2" facs="tcp:33989:2"/>
+               <head>A. <hi>3</hi> Voc.</head>
+               <byline>
+                  <hi>Dr.</hi> John Blow.</byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>Hen <hi>Ju╌dith</hi> had laid <hi>Ho╌li╌fer╌nas</hi> in Bed,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> she pull'd out his Falchion, and cut off his Head:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> The reason is plain, he'd have made her his Whore;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> so she cut off his Head, as I told you before, as I told you before.</l>
+            </div>
+            <div type="song">
+               <head>A. <hi>3</hi> Voc.</head>
+               <byline>
+                  <hi>Dr.</hi> John Blow.</byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">J</seg>Oan</hi> has been Gal╌lop╌ping, Gallopping, Gallopping, <hi>Joan</hi> has been Gallopping all the Town o're,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 'till her Bumfiddle, Bumfiddle, Bumfiddle, that 'till her Bumfiddle was wonderous fore;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> without e're a Sad╌dle upon her old Jade,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> to fetch her good Man from the Alehouse Trade.</l>
+            </div>
+            <div type="song">
+               <pb n="3" facs="tcp:33989:2"/>
+               <head>A. <hi>3</hi> Voc.</head>
+               <byline>
+                  <hi>Mr.</hi> Alridge.</byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">T</seg>Om Jol╌ly</hi>'s Nose I mean to abuse;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> thy jol╌ly Nose, <hi>Tom,</hi> provokes my Muse:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thy Nose, jol╌ly <hi>Tom,</hi> that shines so bright,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I'le ea╌si╌ly fol╌low it by its own light.</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thy Nose, <hi>Tom Jol╌ly,</hi> no Jest it will bear,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> although it yields Matter enough, and to spare.</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But jol╌ly <hi>Tom's</hi> Nose, for all he can do,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> breeds Worms in it self, and in our Heads too:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Tom</hi>'s Nose, jolly <hi>Tom</hi>'s Nose,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the more it is batter'd, the more it grows.</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Then drink to <hi>Tom Jol╌ly</hi> a coo╌ling Glass,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> or jol╌ly <hi>Tom</hi>'s Nose will fire his Face.</l>
+            </div>
+            <div type="song">
+               <head>A. <hi>4</hi> Voc.</head>
+               <byline>
+                  <hi>Mr.</hi> John Moss.</byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">Q</seg>Uoth the Thatcher to his Man,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Jack,</hi> what dost think?</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Let's raise this Ladder if we can,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> but first let's drink;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's raise this Ladder if we can,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> but first let's drink;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's raise this Ladder if we can,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> but first let's drink.</l>
+            </div>
+            <div type="song">
+               <pb n="4" facs="tcp:33989:3"/>
+               <head>
+                  <hi>A.</hi> 3 <hi>Voc.</hi> Bartholomew Fair.</head>
+               <byline>Mr. <hi>Henry Purcell.</hi>
+               </byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">H</seg>Ere's that will challenge all the Fair;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> come buy my Nuts and Damsons, my Burgamy Pears:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Here's the Whore of <hi>Ba╌by╌lon,</hi> the De╌vil, and the Pope;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the Girl is just a go╌ing on the Rope.</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Here's <hi>Di╌ves,</hi> and <hi>La╌za╌rus,</hi> and the World's Cre╌a╌tion;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> here's the <hi>Dutch</hi> Woman, the like's not in the Nation:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Here is the Booth where the tall <hi>Dutch</hi> Maid is;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> here are Bears that Dance like a╌ny Ladies.</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> To╌to╌to╌to╌tot, goes the little peny Trumpet;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> here's your <hi>Jacob Hall</hi> that can Jump it, Jump it:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Sound Trumpet, sound, a Silver Spoon and Fork;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> come here's your dainty Pig and Pork.</l>
+            </div>
+            <div type="song">
+               <pb n="5" facs="tcp:33989:3"/>
+               <head>
+                  <hi>A.</hi> 3 <hi>Voc.</hi> A Catch sung at the Lord Admiral's Feast.</head>
+               <byline>Mr. <hi>G. H.</hi>
+               </byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">C</seg>Ome let us drink;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and ne╌ver think,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> for Care kills a Cat;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> but Wine makes us Fat.</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Here's a Health to the No╌ble Commanders within;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> our Ad╌mi╌ral's Friends, who will part with their Skin</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> for Loy╌al╌ty and Honour; whose worth we sing,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> to clear up our Throats for a Health to the King.</l>
+            </div>
+            <div type="song">
+               <head>
+                  <hi>A.</hi> 3 <hi>Voc.</hi> A Catch.</head>
+               <byline>Mr. <hi>G. H.</hi>
+               </byline>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">N</seg>Ow hap╌pi╌ly met, let's cast a╌way Care,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and each Man un╌to Mirth himself pre<g ref="char:EOLhyphen"/>pare;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let all that are Plotters be kick'd like a Ball,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and tum╌bling down, break their Necks in the fall;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> While we who are Loy╌al do pray for our King,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> That long he may Reign, in Peace and Plen╌ty, let's sing.</l>
+            </div>
+            <div type="song">
+               <div n="cantus primus" type="part">
+                  <pb n="6-7" facs="tcp:33989:4"/>
+                  <head>A Glee for <hi>3</hi> Voc. <hi>Cantus Primus.</hi>
+                  </head>
+                  <byline>
+                     <hi>Mr.</hi> John Jackson.</byline>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg> Pox on our Jaylor, and on his fat Jole;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> there's Li╌ber╌ty lies in the bottom o'th' Bole:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> A Fig for what e╌ver the Rascal can do;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Dungeon is deep, but our Cups are so too,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Dungeon is deep, but our Cups are so too.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Then drink we a Round in de╌spite of our Foes,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and make our hard Irons cry Clink in the close.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Then laugh we, and quaff we, un╌til our rich Noses</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> grow Red, and contest with our Chaplets of Roses,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> grow Red, and contest with our Chaplets of Ro╌ses.</l>
+               </div>
+               <div n="cantus secundus" type="part">
+                  <head>A Glee for <hi>3</hi> Voc. <hi>Cantus Secundus.</hi>
+                  </head>
+                  <byline>
+                     <hi>Mr.</hi> John Jackson.</byline>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg> Pox on our Jaylor, and on his fat Jole;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> there's Liberty lies in the bottom o'th' Bole:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> A Fig for what e╌ver the Rascal can do;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Dungeon is deep, but our Cups are so too,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Dungeon is deep, but our Cups are so too.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Then drink we a Round in despite of our Foes,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and make our hard Irons cry Clink in the close.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Then laugh we, and quaff we, un╌til our rich Noses</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> grow red, and contest with our Chaplets of Roses;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> grow red, and contest with our Chaplets of Ro╌ses.</l>
+               </div>
+               <div n="bassus" type="part">
+                  <pb n="7" facs="tcp:33989:4"/>
+                  <head>A Glee for <hi>3</hi> Voc. <hi>Bassus.</hi>
+                  </head>
+                  <byline>
+                     <hi>Mr.</hi> John Jackson.</byline>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg> Pox on our Jaylor, and on his fat Jole;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> there's Liberty lies in the bottom o'th' Bole:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> A Fig for what e╌ver the Rascal can do;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Dungeon is deep, but our Cups are so too,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Dungeon is deep, but our Cups are so too.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Then drink we a Round in despite of our Foes,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and make our hard Irons cry Clink in the close.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Then laugh we, and quaff we, until our rich Noses</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> grow Red, and contest with our Chaplets of Roses;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> grow Red, and contest with our Chaplets of Ro╌ses.</l>
+               </div>
+            </div>
+            <div type="song">
+               <div n="cantus primus" type="part">
+                  <pb n="8" facs="tcp:33989:5"/>
+                  <head>A Glee for <hi>3</hi> Voc. <hi>Cantus Primus.</hi>
+                  </head>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Et's Live, and let's Love, let's Laugh, and let's Sing,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> whilst that shrill Eccho's ring;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Humours a╌gree,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> from Cares we are free,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and none are more happy, more happy, than we.</l>
+               </div>
+               <div n="cantus secundus" type="part">
+                  <head>A Glee for <hi>3</hi> Voc. <hi>Cantus Secundus.</hi>
+                  </head>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Et's Live, and let's Love, let's Laugh, and let's Sing,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> whilst that shrill Eccho's ring;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Humours a╌gree,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> from Cares we are free,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and none are more happy, more happy, than we.</l>
+               </div>
+               <div n="bassus" type="part">
+                  <head>A Glee for <hi>3</hi> Voc. <hi>Bassus.</hi>
+                  </head>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Et's Live, and let's Love, let's Laugh, and let's Sing,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> whilst that shrill Eccho's ring;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> our Humours a╌gree,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> from Cares we are free,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and none are more happy, more happy, than we.</l>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33989:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
